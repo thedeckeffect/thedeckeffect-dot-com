@@ -2,7 +2,7 @@
   "name": "thedeckeffect-dot-com",
   "version": "1.0.0",
   "description": "The Deck Effect dot Com",
-  "main": "index.js",
+  "main": "route.js",
   "repository": "https://github.com/adamlee-ARC/mithril-skeleton.git",
   "author": "Adam Lee <adam@thedeckeffect.com>",
   "license": "MIT",
